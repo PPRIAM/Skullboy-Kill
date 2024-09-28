@@ -1,0 +1,6 @@
+{
+	"animation_path":{
+		"player":"static/animations/player",
+		"enemy":"static/animations/enemy"
+	}
+}
